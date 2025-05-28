@@ -129,6 +129,8 @@ celerybeat.pid
 
 # Environments
 .env
+.env_hotel_bookings
+env_hotel_bookings
 .venv
 env/
 venv/
